@@ -135,12 +135,12 @@ span:nth-child(10){
         display: flex;
         justify-content: center;
         text-align: center;
-        color: white;
+        color: rgb(0, 250, 250);
         font-size: 2em;
     }
      .mim{
          top: 50%;
-         font-weight: 700;
+        
          
      }
      .owner{
